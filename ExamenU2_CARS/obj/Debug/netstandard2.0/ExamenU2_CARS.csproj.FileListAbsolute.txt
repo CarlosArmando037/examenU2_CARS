@@ -1,0 +1,15 @@
+C:\Users\cd08\Desktop\ExamenU2_CARS\ExamenU2_CARS\bin\Debug\netstandard2.0\ExamenU2_CARS.deps.json
+C:\Users\cd08\Desktop\ExamenU2_CARS\ExamenU2_CARS\bin\Debug\netstandard2.0\ExamenU2_CARS.dll
+C:\Users\cd08\Desktop\ExamenU2_CARS\ExamenU2_CARS\bin\Debug\netstandard2.0\ExamenU2_CARS.pdb
+C:\Users\cd08\Desktop\ExamenU2_CARS\ExamenU2_CARS\obj\Debug\netstandard2.0\ExamenU2_CARS.csproj.AssemblyReference.cache
+C:\Users\cd08\Desktop\ExamenU2_CARS\ExamenU2_CARS\obj\Debug\netstandard2.0\ExamenU2_CARS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cd08\Desktop\ExamenU2_CARS\ExamenU2_CARS\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\cd08\Desktop\ExamenU2_CARS\ExamenU2_CARS\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\cd08\Desktop\ExamenU2_CARS\ExamenU2_CARS\obj\Debug\netstandard2.0\ExamenU2_CARS.AssemblyInfoInputs.cache
+C:\Users\cd08\Desktop\ExamenU2_CARS\ExamenU2_CARS\obj\Debug\netstandard2.0\ExamenU2_CARS.AssemblyInfo.cs
+C:\Users\cd08\Desktop\ExamenU2_CARS\ExamenU2_CARS\obj\Debug\netstandard2.0\ExamenU2_CARS.csproj.CoreCompileInputs.cache
+C:\Users\cd08\Desktop\ExamenU2_CARS\ExamenU2_CARS\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\cd08\Desktop\ExamenU2_CARS\ExamenU2_CARS\obj\Debug\netstandard2.0\ExamenU2_CARS.dll
+C:\Users\cd08\Desktop\ExamenU2_CARS\ExamenU2_CARS\obj\Debug\netstandard2.0\refint\ExamenU2_CARS.dll
+C:\Users\cd08\Desktop\ExamenU2_CARS\ExamenU2_CARS\obj\Debug\netstandard2.0\ExamenU2_CARS.pdb
+C:\Users\cd08\Desktop\ExamenU2_CARS\ExamenU2_CARS\obj\Debug\netstandard2.0\ref\ExamenU2_CARS.dll

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ExamenU2_CARS.MainPage"
+             NavigationPage.HasNavigationBar="False">
+
+    <Grid BackgroundColor="LightBlue"
+          >
+        <Label Text="Duracion Actividad:"
+               VerticalOptions="Start"
+               FontSize="20"
+               />
+
+        <Entry Placeholder="Duracion"
+               VerticalOptions="Start"
+               Margin="50,100,50,-100"
+               x:Name="entry1"
+               
+               >
+        </Entry>
+        
+        <Label Text="Peso de usuario:"
+               VerticalOptions="Center"
+               FontSize="20"
+               Margin="0,-400,0,0"
+               />
+
+        <Entry Placeholder="Peso"
+               VerticalOptions="Center"
+               Margin="50,-300,50,0"
+               x:Name="entry2"
+               ></Entry>
+
+
+        <Grid >
+            <Button Text="calcular"
+                    Margin="100,350,100,350" 
+                    Command="{Binding calcularcommand}"/>
+
+        </Grid>
+        <Entry Placeholder="resultado"
+               VerticalOptions="End"
+               Margin="0,-200,0,200"
+               ></Entry>
+    </Grid>
+
+</ContentPage>

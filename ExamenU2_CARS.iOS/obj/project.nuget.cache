@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "AfDey37aB/Vx9bxcirCs83Dk6S9DLPLXwz2M0wnEd04KvDtVd7XOQ9IdQ1okZ8Z43YRBmGAM8L3gs7QKzykSpQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cd08\\Desktop\\ExamenU2_CARS\\ExamenU2_CARS.iOS\\ExamenU2_CARS.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cd08\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\cd08\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\cd08\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
